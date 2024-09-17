@@ -13,7 +13,9 @@ import matplotlib.pyplot as plt
 > a) Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant Instrumentation and hometown Luzon
 > b) Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
 
-
+- In this problem, it is supposed to return only certain data in the data frame along with the given conditions
+- I then tried using conditional statements using conditional operators such as '&' and '==' and '>' to set conditions and meet the required data
+- For the second part of this problem, I used the same process as I did with the first part but this time I had a hard time trying to analyze how to get the average 
 
 
 # 2) Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
