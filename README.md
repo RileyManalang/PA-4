@@ -10,7 +10,9 @@ import matplotlib.pyplot as plt
 ```
 # 1) Create the following data frames based on the format provided:
 > Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas
+
 > a) Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant Instrumentation and hometown Luzon
+
 > b) Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
 
 - In this problem, it is supposed to return only certain data in the data frame along with the given conditions
@@ -20,11 +22,15 @@ import matplotlib.pyplot as plt
 
 # 2) Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
 - For this part of the problem, I had a hard time learning seaborn and matplotlib since this is all new to me, and there are a lot of syntax that I need to be wary of.
-- I first then tried to figure out how to make a boxplot since I thought this was the most appropriate graph for the necessary data. 
+- I first then tried to figure out how to make a boxplot since I thought this was the most appropriate graph for the necessary data. I created a line of code that will compute for the average grades.
 
 ### Challenges
-
+- Learning the conditional statements in data wrangling
+- Learning matplotlib and seaborn graphs
 
 ### Learnings
+- Manage to get a grasp of data wrangling
+- Learned a few on how to make a graph using matplotlib and seaborn
 
 #### Version History:
+[v1.1.0] - 9/17/2024
