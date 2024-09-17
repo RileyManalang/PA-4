@@ -1,8 +1,10 @@
 # PA-4
 Python Version: 
-For starters: import pandas and matplotlib.pyplot for the following problems
+For starters: import seaborn, pandas and matplotlib.pyplot for the following problems
 ```
 import pandas as pd
+
+import seaborn as sns
 
 import matplotlib.pyplot as plt
 ```
