@@ -36,9 +36,9 @@ import matplotlib.pyplot as plt
 - I learned a few things on how to create and manipulate the graphs
 
 #### Version History:
-[v1.1.0] - 9/17/2024
-[v1.2.0] - 9/21/2024
-##### Changes:
+##### [v1.1.0] - 9/17/2024
+##### [v1.2.0] - 9/21/2024
+###### Changes:
 - Improved the title of the graphs
 - Updated the style of the graph
 - Adjusted the font sizes
